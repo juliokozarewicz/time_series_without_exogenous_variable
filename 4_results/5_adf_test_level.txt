@@ -1,0 +1,13 @@
+--------------------------------------------------
+ADF Results (level):
+
+Variable: INDUSTRIAL ELECTRICITY CONSUMPTION (GWH)
+ADF Test: -1.706139
+P-value: 0.748167
+Lags: 12
+Observations: 249
+Critical values:
+  1%: -3.995595
+  5%: -3.428271
+  10%: -3.137499
+--------------------------------------------------

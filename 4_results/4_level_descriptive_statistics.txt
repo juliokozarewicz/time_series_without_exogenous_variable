@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: INDUSTRIAL ELECTRICITY CONSUMPTION (GWH) (level)
+Mean: 13557.84
+Median: 14004.00
+Sample std: 1698.87
+Variance: 2886171.34
+Lowest: 9178.00
+Highest: 15886.00
+--------------------------------------------------
