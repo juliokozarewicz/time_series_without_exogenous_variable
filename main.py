@@ -5,7 +5,11 @@ from stationarity import Stationarity_diff
 from model_execute import Model_execute
 from pandas import read_csv
 import os
+import warnings
 from time import sleep
+
+# suppress warnings - sorry about that =(
+warnings.filterwarnings("ignore")
 
 # clear folder
 # ==========================================================

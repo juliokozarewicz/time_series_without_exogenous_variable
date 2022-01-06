@@ -111,7 +111,7 @@ class Model_execute:
                       seasonal_order=(P, D, Q, s), 
                       trend="c")
         
-        self.model_fit = model.fit()
+        self.model_fit = model.fit(disp=False)
         model_result = self.model_fit.summary()
         
         with open('4_results/9_model_summary.txt', 'w') as desc_stat:
@@ -263,6 +263,7 @@ class Model_execute:
         r2_fit = init_fitted - len(self.data_select)
         r2 = r2_score(self.data_select.iloc[ r2_fit : -1 , 0 ],
                       self.data_select.iloc[ r2_fit : -1 , 1 ])
+        r2 = r2 * 100
         
         plt.legend(["original",
                     f"fitted_model (R² = {r2:.2f}%)",
