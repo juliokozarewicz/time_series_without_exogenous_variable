@@ -38,7 +38,7 @@ variable = variable_.replace("_", ' ').upper()
 p_value_accepted = 0.05
 
 # X13 path linux
-#path_x13_arima = "/home/user/x13as/"
+path_x13_arima = "/home/edu/x13as/"
 
 # X13 path win
 #path_x13_arima = "C:/Program Files (x86)/x13as/0_x13as"

@@ -1,11 +1,11 @@
 --------------------------------------------------
 Descriptive analysis:
 
-Variable: FERTILIZER SALES (level)
-Mean: 2280712.70
-Median: 2170061.50
-Sample std: 977587.44
-Variance: 955677202581.23
-Lowest: 602675.00
-Highest: 5058905.00
+Variable: INDUSTRIAL ELECTRICITY CONSUMPTION (GWH) (level)
+Mean: 13557.84
+Median: 14004.00
+Sample std: 1698.87
+Variance: 2886171.34
+Lowest: 9178.00
+Highest: 15886.00
 --------------------------------------------------
