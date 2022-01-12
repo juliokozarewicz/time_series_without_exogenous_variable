@@ -1,13 +1,13 @@
 --------------------------------------------------
 ADF Results (level):
 
-Variable: INDUSTRIAL ELECTRICITY CONSUMPTION (GWH)
-ADF Test: -1.706139
-P-value: 0.748167
-Lags: 12
-Observations: 249
+Variable: FERTILIZER SALES
+ADF Test: -2.106702
+P-value: 0.542342
+Lags: 13
+Observations: 246
 Critical values:
-  1%: -3.995595
-  5%: -3.428271
-  10%: -3.137499
+  1%: -3.996050
+  5%: -3.428490
+  10%: -3.137627
 --------------------------------------------------
